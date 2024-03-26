@@ -1,0 +1,51 @@
+# Ignore .vscode directory
+.vscode/
+Notes/
+
+# Ignore .json files
+*.json
+
+# Ignore .cph files
+.cph
+**/.cph
+
+# Ignore .bin files
+*.bin
+**/*.bin
+
+
+
+# Ignore .exe files
+*.exe
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
