@@ -1,0 +1,10 @@
+School Name: ABC High School
+Class Number: 10, Class Teacher: Mr. Smith
+Students:
+Student Name: John Doe, Age: 15
+Student Name: Jane Doe, Age: 16
+
+Class Number: 12, Class Teacher: Mrs. Johnson
+Students:
+Student Name: Bob Smith, Age: 17
+
