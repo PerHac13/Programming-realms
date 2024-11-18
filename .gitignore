@@ -49,3 +49,65 @@ Notes/
 *.exe
 *.out
 *.app
+
+
+# Build directories
+**/build/
+**/cmake-build-debug/
+**/CMakeFiles/
+
+# Object files
+**/*.o
+**/*.obj
+**/*.slo
+**/*.lo
+
+# Precompiled Headers
+**/*.gch
+**/*.pch
+
+# Dynamic libraries
+**/*.so
+**/*.dylib
+**/*.dll
+
+# Static libraries
+**/*.lai
+**/*.la
+**/*.a
+**/*.lib
+
+# Fortran module files
+**/*.mod
+**/*.smod
+
+# Executables
+**/*.exe
+**/*.out
+**/*.app
+
+# CMake specific
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/install_manifest.txt
+**/CTestTestfile.cmake
+**/Makefile
+**/*.cbp
+**/CMakeScripts
+**/compile_commands.json
+
+# IDE specific
+**/.vscode/
+**/.idea/*.xml
+.DS_Store
+**/.DS_Store
+
+# Prerequisites
+**/*.d
+
+# Project specific
+include/divisible/*
+# include/*
+# lib/*
+# bin/*
+# test/test_runner
