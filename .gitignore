@@ -111,3 +111,14 @@ include/divisible/*
 # lib/*
 # bin/*
 # test/test_runner
+
+
+# java specific
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.rar
+*.jmod
+
