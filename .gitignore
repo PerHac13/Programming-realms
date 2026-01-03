@@ -122,3 +122,23 @@ include/divisible/*
 *.rar
 *.jmod
 
+go/24_http_server/storage/storage.db
+go/24_http_server/storage/*.db
+go/24_http_server/storage/*.db-shm
+go/24_http_server/config/*.yaml
+go/24_http_server/config/*.yml
+go/24_http_server/config/*.json
+
+// GO related .gitignore rules
+*.test
+vendor/
+*.out
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test.exe
+coverage.out
+*.prof
+
